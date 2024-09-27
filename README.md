@@ -1,2 +1,2 @@
 # Viper-Hook
-just a simple webhook utility
+when you download this file you agree that you are NOT aloud to skid this respostory.
